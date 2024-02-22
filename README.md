@@ -11,6 +11,20 @@
 
 <br>Я печатал из pa6-GF30 хватит ли прочности а АБСа для креплений - неизвестно.
 
+Конфиг только для примера
+```
+[z_tilt]
+z_positions: 115, 290
+	-15, -3
+	235, -15
+points: 130, 208
+	20, 33
+	240, 33
+speed: 300
+horizontal_move_z: 3
+retries: 10
+retry_tolerance: 0.02
+```
 ![image](https://github.com/Murrdo/FBG6-3-motors-on-Z-axis/assets/146051709/f1e8c976-48f8-4a72-9d60-b926b804392e)
 ![image](https://github.com/Murrdo/FBG6-3-motors-on-Z-axis/assets/146051709/ab1d0bf4-40ae-423d-80c5-0c4573d4195d)
 ![image](https://github.com/Murrdo/FBG6-3-motors-on-Z-axis/assets/146051709/cf3d582b-9346-4611-8e24-89c7af247dc0)
